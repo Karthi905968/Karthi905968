@@ -16,8 +16,6 @@ Welcome to my GitHub profile! I'm a passionate Web Developer with a keen interes
 - **Frameworks and Libraries:** React, Django
 - **Tools:** Git, Docker
 
-## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 ## 🏆 GitHub Trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical)
