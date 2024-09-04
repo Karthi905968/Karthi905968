@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm a passionate Web Developer with a keen interes
 ![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical)
 
 ## 💼 Connect with Me
-[LinkedIn](https://www.linkedin.com/in/karthibs07/) |  [https://karthibs.netlify.app/]
+[LinkedIn](https://www.linkedin.com/in/karthibs07/) |  [karthibs.com](https://karthibs.netlify.app/)
 
 
 <!---
