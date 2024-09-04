@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a passionate Web Developer with a keen interes
 - 🤔 I’m looking for help with backend development.
 - 💬 Ask me about frontend and backend development.
 - 📫 How to reach me: karthibs.bgr3@gmail.com
-- ⚡ Fun fact: I can solve a Rubik's cube in under two minutes!
+- ⚡ Fun fact: I can solve a Rubik's cube in under three minutes!
 
 ## 🛠️ Skills and Tools
 - **Programming Languages:** Python, Java, JavaScript, React, Redux, HTML, CSS, Django, SQL
@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm a passionate Web Developer with a keen interes
 ![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical)
 
 ## 💼 Connect with Me
-[LinkedIn](https://www.linkedin.com/in/yourprofile) | [Twitter](https://twitter.com/yourprofile) | [Your Website or Blog]
+[LinkedIn](https://www.linkedin.com/in/karthibs07/) |  [https://karthibs.netlify.app/]
 
 
 <!---
